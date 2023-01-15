@@ -1,4 +1,4 @@
 /DjangoAPI/.env
-*.pyc
-__pycache__
+/DjangoAPI/*.pyc
+/DjangoAPI/__pycache__
 db.sqlite3
